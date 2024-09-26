@@ -1,4 +1,4 @@
-# otlp-autoinstrument-images
+# dotnet-otlp-autoinstrument
 
 **Repo Owner**: Tin Trung Ngo
 
